@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Borrwers
 
 This README outlines the details of collaborating on this Ember application.
@@ -50,8 +49,4 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
-=======
-# create_repo
 
-This is my first repository.
->>>>>>> 01fa57cbba09c9cd711dd5e6df69a6d3c09bcff8
